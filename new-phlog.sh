@@ -20,7 +20,7 @@ $postitile
 ☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
 $nl
 EOT
-vi $blogpost
+vi +20 $blogpost
 #
 #echo $gophtitle | figlet -t -k -f /usr/share/figlet/mini.flf 
 #echo "ホリネズミHorinezumi" $gophtoday 

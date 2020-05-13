@@ -1,0 +1,13 @@
+                                _                            
+|   _.  _ _|_    _  ._   _    _|_ _  ._   _|_  _   _|  _.    
+|_ (_| _>  |_   (_) | | (/_    | (_) |     |_ (_) (_| (_| \/ 
+                                                          /  
+ホリネズミHorinezumi 2020-05-13_18,33 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+So after the first setup, I created a Github repository, for now private but planning to open it soon.
+
+Ideas.
+Having a feed rss maybe? Or a hook that send stuff to Zapier if can read from here? Don't know, just ideas...
+
+For sure I need to refine the phlog script and make it nicer!
