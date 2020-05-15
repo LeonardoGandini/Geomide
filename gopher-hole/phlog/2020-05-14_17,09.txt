@@ -1,0 +1,14 @@
+                                                  _  
+|\ |  _ _|_       _  ._ |    ._ _   _.    |_   _   ) 
+| \| (/_ |_ \/\/ (_) |  |<   | | | (_| \/ |_) (/_ o  
+                                       /             
+ホリネズミHorinezumi 2020-05-14_17,09 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+I just received the two ps2 cables and finally tried to connect my rackmount console to the kvm switch. Of course it didn't work so I now have to get in touch with the ebay seller who sold me the console. Weird stuff but I keep going.
+
+The HP IP console switch on the other hand worked for a moment and then decided to go silent... old crappy hardware..
+
+----
+
+On the Gopher side, my repo is now public on GitHub: leonardogandini/Geomide

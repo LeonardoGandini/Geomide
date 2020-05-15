@@ -1,29 +1,34 @@
 #!/bin/bash
-
-phlogdir="/home/neko/Geomide/gopher-hole/phlog/"
-gophtoday="$(date +'%Y-%m-%d_%H,%M')"
-
-blogpost=$phlogdir/$gophtoday.txt
-
-#touch $phlogdir/$gophtoday.txt
-
-#echo "hello world" >> $phlogdir/$gophtoday.txt
-
-read -p  'Titolo: ' gophtitle
+# __   __               
+# \ \ / / __ _  _ _  ___
+#  \ V / / _` || '_|(_-<
+#   \_/  \__,_||_|  /__/
+#                       
+phdir="/home/neko/Geomide/gopher-hole/phlog/"
+gtoday="$(date +'%Y-%m-%d_%H,%M')"
 nl=$'\n'
 
-postitile=$(figlet -t -k -f /usr/share/figlet/mini.flf $gophtitle)
+#Ask for post title
+read -p  'Post Title: ' gophtitle
+#
+#Ask for post file name
+read -p  'File Title: ' gophfiletitle
 
-cat <<EOT >> $blogpost
-$postitile
-ホリネズミHorinezumi $gophtoday 
+#Post title created with figles
+fancytitle=$(figlet -t -k -f /usr/share/figlet/mini.flf $gophtitle)
+
+phlogpost=$phdir/$gtoday$gophfiletitle.txt
+
+cat <<EOT >> $phlogpost
+$fancytitle
+ホリネズミHorinezumi $gtoday 
 ☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
 $nl
 EOT
-vi +20 $blogpost
+vi +20 $phlogpost
 #
 #echo $gophtitle | figlet -t -k -f /usr/share/figlet/mini.flf 
-#echo "ホリネズミHorinezumi" $gophtoday 
+#echo "ホリネズミHorinezumi" $gtoday 
 #echo "☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
 #echo ""
 #echo ""

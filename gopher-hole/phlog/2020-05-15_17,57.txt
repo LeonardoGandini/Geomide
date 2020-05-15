@@ -1,0 +1,17 @@
+ _                               _  
+|_)  _.  _ |         |_   _. _|_  ) 
+| \ (_| (_ |<   \/\/ | | (_|  |_ o  
+                                    
+ホリネズミHorinezumi 2020-05-15_17,57 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+Received my rack console, screen didn't work (of course). 
+
+I managed to crack it open but that simply fucked up the internal organs so long story short, I have now a beautiful and heave rackmoung keyboard :-) The display is gone!
+
+The plan is therefore to buy a new console and use this one as a tray or something since the slides work well.
+
+On the bright side, the KVM HP IP switch I bought for two pennies work fine (if you can survive the old HP UI).
+Succesfully managed to connect it with a Ubuntu server via lan-->ps2/vga and all was good.
+
+Time to dive into Ebay now to find new stuff!
