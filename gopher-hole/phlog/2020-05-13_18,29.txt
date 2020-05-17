@@ -8,5 +8,5 @@
 
 Gopher it's live!
 
-After a lot of trouble I fugure out how to make my local gopher server public.
+After a lot of trouble I figure out how to make my local gopher server public.
 In my Unifi network with static ips I managed to create a nat rule to open my beautiful RaspberryPi running Gopher, to the world!

@@ -1,0 +1,20 @@
+              __             
+\  / o ._ _  (_  ._   _  | | 
+ \/  | | | | __) |_) (/_ | | 
+                 |           
+ホリネズミ Horinezumi 2020-05-17--11-09 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+Spent a bit of time finally adding a spell check for my vim editor.
+
+This is pretty handy as I just now misspelled the word 'misspelled' and got on track quickly thanks to the spell check.
+
+:setlocal spell spelllang=en_us will turn spell check for US English on. I live in Scotland but grew up with American English so I always write with an en_us locale.
+
+Moving forward, I needed this only for txt related files, surely not for code files.
+So inside my vimrc, I added
+
+au BufReadPost,BufNewFile *.md,*.txt,*.tex setlocal spell
+
+This line will automatically turn on spell check for txt md and tex files. Makes life a bit more easy while writing this phlog.
+
