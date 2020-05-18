@@ -13,7 +13,7 @@ read -p  'File Title: ' gophfiletitle
 #Post title created with figlet
 fancytitle=$(figlet -t -k -f /usr/share/figlet/mini.flf $gophtitle)
 
-phlogpost=$phdir/$gtoday_$gophfiletitle.txt
+phlogpost=$phdir/$gtoday--$gophfiletitle.txt
 
 cat <<EOT >> $phlogpost
 $fancytitle
