@@ -1,0 +1,14 @@
+ __                                                   
+/__  _  ._  |_   _  ._   |_|  _. ._ _|       _. ._ _  
+\_| (_) |_) | | (/_ |    | | (_| | (_| \/\/ (_| | (/_ 
+        |                                             
+ホリネズミ Horinezumi 2020-05-24--10-50 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+So, where this gopher hole is hosted?
+I have a small home lab with Unifi hardware. 
+Gopher has a dedicated Raspberry pi 4 (overkill you say? ya, of course it is!) with Raspbian, hooked to a Unifi 24 poe switch 2nd gen.
+
+All and all is going quite well, I have a firewall rule that opens the port 70 of the RPI to the world, and that's it. Since I also have multiple static ip addresses from my isp, currently I'm using one of those for the Gopher Hole, but maybe in the future I can point it to other hardware.
+
+So yes, let's keep this thing up and running now!
