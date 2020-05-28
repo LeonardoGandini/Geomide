@@ -1,0 +1,14 @@
+                    
+._  o |_   _  |  _  
+|_) | | | (_) | (/_ 
+|                   
+ホリネズミ Horinezumi 2020-05-25--20-18 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+Today a played a bit with my Raspberry PI 4 that hosts my network PiHole.
+One important thing, I added the lists from https://blocklist.site to my PiHole.
+Took a bit to load them but after that, all done! 
+
+I use the PiHole not as my primary DNS server, I use it on specific devices and I have a wifi network that automatically apply the PiHole to the attached clients.
+
+Very reliable, I will keep using it for sure and possibly expand in the future.

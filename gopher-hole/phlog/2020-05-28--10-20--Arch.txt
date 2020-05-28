@@ -1,0 +1,16 @@
+              
+ /\  ._ _ |_  
+/--\ | (_ | | 
+              
+ホリネズミ Horinezumi 2020-05-28--10-20 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+I finally found time to play with Arch Linux for the first time.
+Owning a Synology NAS, I used their pretty good Virtual Machine and installed Arch Linux in it.
+Took me a couple of attempts as I wasn't very familiar with the installation and configuration of Grub on a UEFI partition. But I finally won my battle and got it right! 
+Boy if it is a different experience!
+I always played around with linux during the years but always around Debian/RedHat based systems. Arch is a totally different beast and the fact that comes even without sudo installed... damn!
+
+So anyway, managed to install some basic packages via pacman (which I have to study a bit more now) and now I can successfully ssh into it and can work.
+
+My initial goal was to have a lightweight Linux installation like Arch and primarily use it for AWS CLI commands. So next step is to configure AWS CLI and put the configs under git, fun times ahead.
