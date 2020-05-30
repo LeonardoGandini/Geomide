@@ -1,0 +1,18 @@
+ _              _   __   
+|_)  _.  _ |_  |_) (_ /| 
+|_) (_| _> | | |   __) | 
+                         
+ホリネズミ Horinezumi 2020-05-31--00-05 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+Today, lazy Sunday, I decided to add something to my bash prompt. See, I was bored to always having a $ or # sign with the same color.
+So I decided to create a small script that changes the color of the $ sign in my prompt based on days of the week.
+Long story short, array with color values (yes those crappy bash colors!). A variable which picks the array values based on today's day numeric value.
+
+Here it is:
+
+myDay=$(date +%u)                                                                                  
+myWeek=("\[\033[34m\]" "\[\033[36m\]" "\[\033[33m\]" "\[\033[32m\]" "\[\033[35m\]" "\[\033[37m\]" "\[\033[31m\]") 
+myColor=${myWeek[$myDay-1]} 
+
+And then, just us my $myColor var in my PS1. Quite easy after all, but I was very pleased with the result
