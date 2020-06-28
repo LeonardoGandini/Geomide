@@ -1,0 +1,11 @@
+            _    _                      
+| | ._  o _|_ o |_) ._ _ _|_  _   _ _|_ 
+|_| | | |  |  | |   | (_) |_ (/_ (_  |_ 
+                                        
+ホリネズミ Horinezumi 2020-06-24--09-45 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+I started using Ubiquiti products at the beginning of 2020. Amazing experience so far, and can't wait to expand my system!
+In the meantime, I just ordered another wee camera to add to the existing UP here at home.
+I ordered an UVC-G3-Micro. This nice little camera is the only Unifi camera that doesn't require a POE connection. It powers from a regular outlet and receives signal from wifi, so it's easy to position this camera.
+This is a test, I'll see how it goes. But it seems a quite nice piece of hardware, I'll post more updates as soon as I get it.

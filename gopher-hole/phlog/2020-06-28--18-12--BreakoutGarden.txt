@@ -1,0 +1,17 @@
+ _                           __                   
+|_) ._ _   _. |   _     _|_ /__  _. ._ _|  _  ._  
+|_) | (/_ (_| |< (_) |_| |_ \_| (_| | (_| (/_ | | 
+                                                  
+ホリネズミ Horinezumi 2020-06-28--18-12 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+I decided to build a little project with a Raspberry Pi. I had the necessity to turn on and off a couple of usb fans.
+Pimoroni offers a wee little hat for the Rpi called Breakout Garden: https://shop.pimoroni.com/products/breakout-garden-hat.
+With it, I added a little breakout display	https://shop.pimoroni.com/products/1-12-oled-breakout?variant=29421050757203 and a temperature sensor: https://shop.pimoroni.com/products/bme680-breakout
+In addition, I found this repoi UHubCTL that allows to turn on/off the Rpi4 USB ports: https://github.com/mvp/uhubctl
+
+With these guys, I managed to create a python script that check the temperature every 5 minutes and, if it's more than 29°C turns the usb on, if it's less, turns them off. In addition, it shows the temp on the little Oled display.
+Currently it simply runs as a Cronjob, but I'm planning to create a daemon for it and reduce the time between checks.
+
+All and all an interesting weekend project, I might expand it and surely find new ways to manage the USB ports power.
+
