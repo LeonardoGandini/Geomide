@@ -1,0 +1,12 @@
+_   _   _              
+_) | \ |_) ._ o ._ _|_ 
+_) |_/ |   |  | | | |_ 
+                       
+ホリネズミ Horinezumi 2020-07-08--15-02 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+New Day, new 3D Printer!
+After the first attempt I had to buy a new one, and return the old 3DP which had issues with the bed leveling and the extruder.
+I bought a Flashforge Adventurer 3. Wee little printer with wifi and ethernet connection and integrated camera! Max model size: 15x15x15cm. Soi not enormous but good enough to mess around.
+The quality in pretty damn good for the price (£350). The only downside is that it's not open, it uses its own crappy slicer Flashprint and online service to monitor. But after all, for my needs now, it's not a big deal.
+So all and all, I'm very happy with it and I'm looking forward to learn more about 3D printing, there are a LOT of stuff, but it's very interesting and exciting.
