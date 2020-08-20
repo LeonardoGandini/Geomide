@@ -1,0 +1,11 @@
+#  __  __          _   _           _    _             
+# |  \/  | _  _   | |_| | ___  ___| |_ (_) _ _   __ _ 
+# | |\/| || || |  |  _  |/ _ \(_-<|  _|| || ' \ / _` |
+# |_|  |_| \_, |  |_| |_|\___//__/ \__||_||_||_|\__, |
+#          |__/                                 |___/ 
+
+This Gopher Hole is hosted on my local network. A Unifi based home lab. A Raspberry PI 3 is the core of this wee tiny Hole :)
+I decided to use a Pi for this project so I can keep it physically separated from the rest of the servers. Of course, it is on a VLan.
+
+Also, the whole Gopher Hole is on GitHub as well at: https://github.com/LeonardoGandini/Geomide
+
