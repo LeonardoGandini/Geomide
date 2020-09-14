@@ -1,0 +1,10 @@
+                     _                          
+\    / _   _   _|   |_ o |  _. ._ _   _  ._ _|_ 
+ \/\/ (_) (_) (_|   |  | | (_| | | | (/_ | | |_ 
+                                                
+ホリネズミ Horinezumi 2020-08-28--13-08 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+I tried wood filaments in the past, with bad results. My Flashforge Adventurer 3 wasn't happy with them and clogged every time. No matter the settings of the printer, after an hour or so of printing, it stopped working.
+I found this other wood filament on Amazon, SUNLU WOOD 3D Printer Filament. It's less 'woody' than the others, meaning less actual wood elements in it which result in a more matt finish. But, it prints as simple PLA and looks good enough for a quick print without going mad with settings.
+I highly recommend this. 

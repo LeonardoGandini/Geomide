@@ -1,0 +1,14 @@
+                                             
+_   _   _  ._ _        _  |_  o ._   _. ._ _ 
+/_ (_) (_) | | | \/\/ (/_ |_) | | | (_| | _> 
+                                             
+ホリネズミ Horinezumi 2020-09-14--11-05 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+Zoom Webinars. Yes they are quite a piece of software/service.
+I started diving deeper into the Zoom Webinars for a client project. A company called LFEE, based in Edinburgh Scotland, decided to put in place series of language courses for kids, after school activity, view more at https://lfee.net/vasco.
+So Zoom Webinars, it's Zoom Pro addon that costs few extgra bucks per month, but allows you to create a webinar and ask people money for it. What's a webinar? It's a meeting where attendees don't have audio nor video and can only view the speaker and interact via chat and Q&A (if allowed). There's also an extra role called 'panelist'. A panelist can have the video on and can present to the attendees, but don't have control on them. Only the host or co-host can modify attendees, promote them to panelists etc.
+So quite a useful set of options.
+Recently Zoom added the ability to pay via PayPal to register to a webinar, all via Zoom registration page. While this is great and super convenient, it also broke other integrations, for example with Zapier which previously was the only way to get paid to register to a webinar.
+So in Zapier, there are few triggers like 'every new webinar registrant'. This trigger is now broker if you activate the Zoom built in PayPal option. This is quite a shame, especially for recurring webinar when hundreds of people register, is useful to save them to an external, say, spreadsheet.
+But all and all, it's a good tool to have. Easy to use and super powerful. There are no real options out there like Zoom Webinars which are that easy to use and yet solid enough to handle hundreds of people, love it! Zoom is always the best!
