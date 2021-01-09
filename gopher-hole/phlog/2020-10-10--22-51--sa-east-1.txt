@@ -1,0 +1,11 @@
+                              
+ _  _. __ _   _.  _ _|_ __ /| 
+_> (_|   (/_ (_| _>  |_     | 
+                              
+ホリネズミ Horinezumi 2020-10-10--22-51 
+☆::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::☆"
+
+Just a quick one to share something that never happened. An entire Aamazon AWS region is down apparently!
+I have client in Brazil with an AWS account, EC2 machine. Since few minutes, it's impossible to reach sa-east-1. No SSH, no IP and even from AWS dashboard, if I go in a region specific service, it says not reachable!
+This is the first time this happens to me, and I'm using AWS since 2011! Crazy.
+Finger crossed it should be fine soon, it's Amazon after all!
